@@ -1,0 +1,37 @@
+<!-- highestvalue.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <title>upper case</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+    /*Create a JavaScript function that accepts a string as argument and converts the first letter of each word of the string in upper case.
+	If we pass the following string "perfect problem solver" we should get "Perfect Problem Solver" printed on the screen*/
+	
+	function sentenceToUpper(inputSentence) {
+		var inputArray = inputSentence.split(' ');
+		var outputArray = [];
+		for(i=0; i<inputArray.length; i++) {
+			var inputWord = inputArray[i];
+			var firstCharacter = inputWord.charAt(0);
+			var remainingCharacters = inputWord.slice(1);
+			var outputWord = firstCharacter + remainingCharacters;
+			// var outputWord = inputArray[i].charAt(0).toUpperCase() + inputArray[i].slice(1); 
+			outputArray.push(outputWord);
+		}
+		return outputArray.join(' ');
+
+	}
+	input = prompt("Please enter a sentence you'd like to have upper case words for...");
+	output = sentenceToUpper(input);
+	document.write(output);
+
+    </script>
+ 
+</body>
+
+</html>

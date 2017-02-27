@@ -1,0 +1,38 @@
+<!-- highestvalue.html -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>highest value</title>
+</head>
+<body>
+	<script type="text/javascript">
+
+		
+		/*Create a JavaScript function to find the highest value in an array. It should accept an array as an argument.
+
+			If we pass the following values 1, 7, -3, 9 we should get just the highest one, number 9*/
+			// [1, 7, -3, 9].length => 4
+
+		function highestValue(input_array) {
+			var input_length = input_array.length;
+			var highest = input_array[0];
+			for (i=1; i<input_length; i = i + 1)
+			{
+				var current = input_array[i];
+				if (current > highest)
+				{
+					highest = current;
+				}
+			}
+			return highest;
+		}
+
+		// var output = highestValue([1, 7, -3, 9]);
+
+		input = prompt("Please enter some numbers seperated by spaces...");
+		input = input.split(' ');
+		output = highestValue(input);
+		document.write(output);
+	</script>
+</body>
+</html>

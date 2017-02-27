@@ -1,0 +1,25 @@
+<!-- temperature.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Temperature</title>
+</head>
+<body>
+<script type="text/javascript">
+	// Create a program that according to the temperature will provide you with an info, whether the weather is cold or moderate. The program should generate a different random number every time, that should be between -5 and 25. If the temperature is between -5 and 10 print "The weather is cold" otherwise print "The weather is moderate".
+
+	var temp_random = Math.random() * 31 - 5;
+
+	console.log(temp_random);
+
+	if (temp_random <= 10) 
+	{
+		document.write("The weather is cold");
+	} else {
+		document.write("The weather is moderate");
+	}
+</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!-- highestvalue.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>highest value</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+    /*Create a JavaScript function to calculate the product of values in an array. The user can pass as many arguments as he wants.
+
+    		If we pass the following values 1, 3, 7, 10, 2 we should get the number 420 printed on the screen*/
+
+    function calculateProduct(inputArray) {
+        var product = inputArray[0];
+        for (i = 1; i < inputArray.length; i++) {
+            product = product * inputArray[i];
+            // product *= inputArray[i];
+        }
+        return product;
+    }
+
+    input = prompt("Please enter some numbers seperated by spaces...");
+    input = input.split(' ');
+    output = calculateProduct(input);
+    document.write(output);
+    </script>
+ 
+</body>
+
+</html>
