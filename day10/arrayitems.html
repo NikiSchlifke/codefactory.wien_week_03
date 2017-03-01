@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>array items</title>
+	<style type="text/css">
+		form, .hrule, #content {
+			margin: 0.5em;
+		}
+		.hrule {
+			border-style: solid;
+			border-width: 1px;
+		}
+		p {
+			margin: 0;
+		}
+	</style>
+</head>
+<body>
+<form action="#">
+	<input type="text" id="item">
+	<button onclick="addToStorage()">Add</button>
+	<button onclick="displayStorage()">Display</button>
+</form>
+<div class="hrule" "></div>
+<div id="content"></div>
+
+
+
+<script type="text/javascript">
+	
+	var storage = [];
+
+	function addToStorage() {
+		var item = document.getElementById('item').value;
+		storage.push(item);
+		alert(item + " added at " + (Number(storage.length)-1));
+	}
+
+	function displayStorage() {
+		var outputDiv = document.getElementById('content');
+		outputDiv.innerHTML = "";
+		for (var i = 0; i<storage.length; i++) {
+			outputDiv.innerHTML += "<p>Element "+i+" = "+storage[i]+"</p>";
+		}
+	}
+</script>
+
+</body>
+</html>

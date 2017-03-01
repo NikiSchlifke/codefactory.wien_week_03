@@ -1,0 +1,1325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"dom_element"
+			],
+			[
+				"nig",
+				"nights"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"sea",
+				"search_days"
+			],
+			[
+				"ge",
+				"getContent"
+			],
+			[
+				"hote",
+				"hotel_id"
+			],
+			[
+				"nigh",
+				"night_count"
+			],
+			[
+				"ni",
+				"night_count"
+			],
+			[
+				"book",
+				"bookNights"
+			],
+			[
+				"gen",
+				"generateNights"
+			],
+			[
+				"ho",
+				"hotels"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"tab",
+				"table_create"
+			],
+			[
+				"table_c",
+				"table_container"
+			],
+			[
+				"table",
+				"table--container"
+			],
+			[
+				"c",
+				"column_count"
+			],
+			[
+				"w",
+				"wrapTd"
+			],
+			[
+				"wra",
+				"wrapTr"
+			],
+			[
+				"row",
+				"row_count"
+			],
+			[
+				"wrapt",
+				"wrapTag"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"wrapper_",
+				"wrapper_row"
+			],
+			[
+				"ro",
+				"row_count"
+			],
+			[
+				"wr",
+				"wrapTag"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"tr",
+				"truncate--at"
+			],
+			[
+				"input",
+				"inputstring"
+			],
+			[
+				"re",
+				"readingStatus"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"dice",
+				"dicedeco"
+			],
+			[
+				"nam",
+				"name-grow"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"av",
+				"avatar-grow"
+			],
+			[
+				"roll",
+				"rollbutton-grow"
+			],
+			[
+				"pla",
+				"play-grow"
+			],
+			[
+				"dic",
+				"dice-shadow-inset"
+			],
+			[
+				"ligh",
+				"lightgray"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"bot",
+				"border-width"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"G",
+				"Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman',  serif"
+			],
+			[
+				"fle",
+				"flex-grow"
+			],
+			[
+				"flex",
+				"flex-grow"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"im",
+				"import\t@import"
+			],
+			[
+				"inclu",
+				"include\t@include"
+			],
+			[
+				"new",
+				"newItem"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"d",
+				"dom_shoppingcart"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"sh",
+				"shoppingcart"
+			],
+			[
+				"font-",
+				"font-stretch"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fi",
+				"fizz"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"gr",
+				"gradeFromPoints"
+			],
+			[
+				"aver",
+				"averagePoints"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"out",
+				"outputWord"
+			],
+			[
+				"R",
+				"remainingCharacters"
+			],
+			[
+				"fir",
+				"firstCharacter"
+			],
+			[
+				"se",
+				"sentenceToUpper"
+			],
+			[
+				"o",
+				"outputArray"
+			],
+			[
+				"cal",
+				"calculateProduct"
+			],
+			[
+				"ca",
+				"calculateProduct"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"hi",
+				"highestvalue"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"tem",
+				"temp_random"
+			],
+			[
+				"te",
+				"temp_random"
+			],
+			[
+				"play",
+				"player"
+			],
+			[
+				"name",
+				"name_data"
+			],
+			[
+				"a",
+				"accesskey\tAttr"
+			],
+			[
+				"eva",
+				"evade"
+			],
+			[
+				"pl",
+				"player_id"
+			],
+			[
+				"p",
+				"player1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"dam",
+				"damage_taken"
+			],
+			[
+				"PL",
+				"PLAYER1"
+			],
+			[
+				"da",
+				"damage_taken"
+			],
+			[
+				"turn",
+				"turn_finish"
+			],
+			[
+				"tur",
+				"turn_finish"
+			],
+			[
+				"tu",
+				"turn_finish"
+			],
+			[
+				"g",
+				"game_loop"
+			],
+			[
+				"game",
+				"game_loop"
+			],
+			[
+				"face",
+				"face_count"
+			],
+			[
+				"player_na",
+				"player_name_data"
+			],
+			[
+				"pa",
+				"player_names"
+			],
+			[
+				"ch",
+				"changeColor"
+			],
+			[
+				"b",
+				"backgroundString"
+			],
+			[
+				"mi",
+				"minute"
+			],
+			[
+				"co",
+				"convertMinutes"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"gra",
+				"grade_math"
+			],
+			[
+				"box",
+				"boxAreaAndVolume"
+			],
+			[
+				"ar",
+				"area"
+			],
+			[
+				"br",
+				"brick"
+			],
+			[
+				"pr",
+				"printArea"
+			],
+			[
+				"de",
+				"degreesToRadians"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fuct",
+				"functions"
+			],
+			[
+				"wit",
+				"write"
+			],
+			[
+				"fr",
+				"fruits"
+			],
+			[
+				"fur",
+				"fruit_string"
+			],
+			[
+				"frui",
+				"fruit_string"
+			],
+			[
+				"po",
+				"popped_value"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"broc",
+				"border-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"n",
+				"nutrient--value\t factsheet.css"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"just",
+				"text-justify"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "day11/readingstatus.html",
+			"settings":
+			{
+				"buffer_size": 1812,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day11/truncate.html",
+			"settings":
+			{
+				"buffer_size": 1567,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n\n<head>\n    <title>table creation</title>\n    <style type=\"text/css\">\n    \ttable, td, tr {\n    \t\tborder-style: solid;\n    \t}\n    </style>\n</head>\n\n<body>\n    <span>Rows: </span>\n    <input type=\"number\" id=\"table--rows\">\n    <span>Columns: </span>\n    <input type=\"number\" id=\"table--columns\">\n    <button id=\"table--create\">Create the table</button>\n    <main id=\"table--container\"></main>\n    <script type=\"text/javascript\" src=\"tablecreator.js\"></script>\n    <script type=\"text/javascript\">\n\n\n\n\n    var table_rows = document.getElementById(\"table--rows\");\n    var table_columns = document.getElementById(\"table--columns\");\n    var table_create = document.getElementById(\"table--create\");\n    var table_container = document.getElementById(\"table--container\");\n    \n\n    table_create.addEventListener(\"click\", function() {\n    \tvar row_count = Number(table_rows.value);\n    \tvar column_count = Number(table_columns.value);\n    \tvar table_content = matrix(wrapTr, wrapTd, row_count, column_count, cellText);\n    \ttable_container.innerHTML = wrapTag(\"table\", table_content);\n    })\n    </script>\n</body>\n\n</html>\n",
+			"file": "day11/table.html",
+			"file_size": 1130,
+			"file_write_time": 131327618450490528,
+			"settings":
+			{
+				"buffer_size": 1135,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day11/tablecreator.js",
+			"settings":
+			{
+				"buffer_size": 800,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "tablecreator.js"
+			}
+		},
+		{
+			"file": "day11/hotels.html",
+			"settings":
+			{
+				"buffer_size": 4260,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 636.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rett",
+				"HTMLPrettify"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"inten",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: List Packages"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"markdownpr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"be",
+				"HTMLBeautify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"commt",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"linter gu",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"beat",
+				"HTMLBeautify"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			]
+		],
+		"width": 777.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/niki/codefactory/codefactory.wien_week_03",
+		"/home/niki/codefactory/codefactory.wien_week_03/day11"
+	],
+	"file_history":
+	[
+		"/home/niki/codefactory/codefactory.wien_week_03/day11/truncate.html",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/scss/desktop.scss",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/scss/layout.scss",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/scss/landscape.scss",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/scss/portrait.scss",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/scss/look.scss",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/index.html",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/README.md",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/style/main.css",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/sass/layout.scss",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/sass/main.scss",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/sass/main.sass",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/sass/look.sass",
+		"/home/niki/codefactory/codefactory.wien_week_03/day10/temperature.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day10/uppercase.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day10/highestvalue.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day10/fizzbuzz.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day10/arrayitems.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day10/shoppingcart.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day10/shoppingcart.css",
+		"/home/niki/codefactory/codefactory.wien_week_03/day10/averagegrades.html",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/sass/main.sass",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/style/layout.css",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/style/main.css",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/sass/look.sass",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/sass/layout.sass",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/index.html",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/script/init.js",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/script/game.js",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/script/dice.js",
+		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02/script/player_names.js",
+		"/home/niki/codefactory/codefactory.wien_week_02/day09/exercises/error.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day09/exercises/captalize.js",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/exercises/bookmarks/index.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/exercises/bookmarks/links.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/debating.md",
+		"/home/niki/codefactory/codefactory.wien_week_02/day08/exercises/advanced.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day08/exercises/strings.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day08/exercises/index.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day08/exercises/intermediate.js",
+		"/home/niki/codefactory/codefactory.wien_week_02/day08/exercises/advanced.js",
+		"/home/niki/codefactory/codefactory.wien_week_02/da08/exercises/arrays.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/da08/exercises/arrays.js",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/csslearn/flexbox.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/exercises/nutrition/factsheet.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/csslearn/flexbox.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/exercises/nutrition/nutrition.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/exercises/transitions/thumb.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/exercises/transitions/preview.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/exercises/transitions/links.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/exercises/transitions/links.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/csslearn/graphics.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/advanced/style/main.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day07/csslearn/graphics.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/advanced/index.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/advanced/html/dummy5.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/advanced/html/dummy4.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/advanced/html/dummy3.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/advanced/html/dummy2.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/advanced/html/info.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/advanced/html/dummy1.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/intermediate/style.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/intermediate/index.html",
+		"/home/niki/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/style/recipes.css",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/recipes.html",
+		"/home/niki/codefactory/codefactory.wien_week_02/day06/exercises/style",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/style/top.css",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/style/side.css",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/style/nav.css",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/style/main.css",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/html/places.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/html/newsfeed.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/html/login.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/html/messages.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/index.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/contacts.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/nav.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/css/side.css",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/css/nav.css",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/css/main.css",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/css/top.css",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/newsfeed.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/html/settings.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/html/contacts.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/html/shortcuts.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/shortcuts.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/html/index.html",
+		"/home/niki/codefactory/css_niki_schlifke-codereview_week01/.gitignore",
+		"/home/niki/codefactory/codefactory.wien_week_01/day05/demoreview/css/nav.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day05/demoreview/css/main.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day05/demoreview/contact.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day05/demoreview/about.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day05/demoreview/index.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/newspaper.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/hide_and_seek.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/newspaper.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/badcss.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/selector_race.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/newspaper_advanced.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/newspaper_advanced.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/selector_race.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/newspaper_advanched.hml",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/csslearn/cascading_inheritance_specify.html",
+		"/home/niki/.config/sublime-text-3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+		"/home/niki/.config/sublime-text-3/Packages/User/css_style_completions.sublime-settings",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/csslearn/cascading_inheritance_specify.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/csslearn/naming_convention.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/csslearn/naming_convention.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/hide_and_seek.html",
+		"/home/niki/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/hide_and_seek2.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/cascading_inheritance_specify.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/cascading_inheritance_specify.css",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/gamechallange02/intro.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/images.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/lists.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/tables.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/learn.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/exercises/imageseries.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/exercises/table_of_images.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/forms.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/iframe_media_comments.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/contactform.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/exercises/audio_video_table.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/exercises/activities.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/gamechallange02/game.html",
+		"/home/niki/codefactory/codefactory.wien_week_01/day03/gamechallange02/player.html"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"run",
+			"><",
+			"table",
+			"content",
+			"table_content",
+			"content",
+			"truncate--at",
+			"truncateAt",
+			"truncatebutton",
+			"><",
+			"margin",
+			"3 id=\"p",
+			".dice",
+			"dice",
+			"section i",
+			"2em",
+			"1em",
+			"2em",
+			"1em",
+			"display",
+			"main",
+			"i ",
+			"i",
+			"en",
+			"Player",
+			"player",
+			"messages",
+			"><",
+			"message",
+			"height:",
+			"height",
+			"\twidth: auto\n",
+			" =",
+			"_r",
+			"_a",
+			"_h",
+			"damage_done",
+			".block",
+			".attack",
+			".block",
+			"ducument",
+			"player1.",
+			"player1",
+			"game_turn",
+			"r_id",
+			", 0",
+			", 1",
+			", opponent_id",
+			"player_id",
+			"argument",
+			"r1",
+			"input:",
+			"(2)",
+			"2",
+			"(1)",
+			"1",
+			"--",
+			"attack",
+			"js",
+			"\"",
+			"'",
+			">\n",
+			"minutes",
+			"a",
+			"grade_english",
+			"grade_physics",
+			"grade_math",
+			"math",
+			"grade_math",
+			"English",
+			"english",
+			"grade_english",
+			"physics",
+			"grade_physics",
+			"physics",
+			"width",
+			"description",
+			"> <",
+			"</dl>",
+			"</dd>",
+			"<dd>",
+			"</dt>",
+			"<dt>",
+			"dt",
+			"<dl>",
+			"dt",
+			"\n    ",
+			"span",
+			">                    <",
+			"                    <",
+			">                    <",
+			"''",
+			"document.write",
+			" + \",\"",
+			"\"",
+			"><",
+			"> <",
+			"span",
+			"a",
+			"span",
+			"text-align",
+			"<hr>",
+			"<p>",
+			"v i",
+			" class=\"thumbnail\"",
+			"span>",
+			"span",
+			"\"thumbnails\"",
+			"\"thumnails\"",
+			"><",
+			"bbbbbb",
+			"30",
+			"p",
+			"|",
+			"body",
+			"ml\">",
+			"index.html",
+			"<section>",
+			"section",
+			"participat",
+			"ves",
+			"strong",
+			"years",
+			"h3",
+			"f4f4f4",
+			"ul",
+			"\"",
+			"8&amp;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "day11/readingstatus.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1780,
+								1780
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 157.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "day11/truncate.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								658
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "day11/table.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								884,
+								884
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "day11/tablecreator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							],
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"auto_name": "tablecreator.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "day11/hotels.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								693,
+								693
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 928.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 210.0
+	},
+	"pinned_build_system": "",
+	"project": "codefactory.wien_week_03.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 813.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/codefactory/javascript_niki_schlifke-codereview_week02_redo/javascript_niki_schlifke-codereview_week02_redo.sublime-project"
+			]
+		],
+		"width": 618.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 410.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

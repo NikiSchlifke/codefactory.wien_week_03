@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>hotels</title>
+    <style type="text/css">
+    .body {
+        background-color: #FFFFFF;
+    }
+    
+    table {
+        width: 60vw;
+    }
+    
+    tr {
+        background-color: #E9F0FA;
+    }
+    
+    td > * {
+        color: #003580;
+    }
+    </style>
+</head>
+
+<body>
+    <header>
+        <span>Book for how many days: </span>
+        <input type="number" id="search--days">
+        <button id="search--button">FIND</button>
+    </header>
+    <main>
+        <div class="decoration"></div>
+        <div id="table--container"></div>
+        <div class="decoration"></div>
+    </main>
+    <script type="text/javascript" src="tablecreator.js"></script>
+    <script type="text/javascript">
+    /*
+                    Create three objects of type Hotel. Each of them share some properties and methods. The user should be able to insert number of nights for each hotel and get back results, whether the hotel is available or not (for some number of nights). For each hotel generate random integers from 1-10 that stores available nights. If the the Hotel is available, provide a button labeled "I'll reserve" otherwise provide a message with text "Sorry, no free room for <number_of_nights> nights".
+
+                    Try to style the Program with the colors #003580, #FFFFFF and #E9F0FA so it can be embedded within real production website.
+                    */
+
+
+
+    function Hotel(name) {
+        this.name = name;
+        this.nights = Math.ceil(Math.random() * 10);
+
+        this.bookNights = function(night_count) {
+            if (night_count > 0 && night_count <= this.nights) {
+                var button = document.createElement("BUTTON");
+                button.innerHTML = "I'll resevere";
+                button.addEventListener('click', function() { doBooking(this, night_count); });
+                // button.onclick = function() { doBooking(this, night_count);};
+                return button;
+            } else {
+                var sorry = document.createElement("P");
+                sorry.innerHTML = "Sorry, no free room for " + night_count + " nights.";
+                return sorry;
+            }
+        }
+
+        this.doBooking = function(night_count) {
+            if (night_count > 0 && night_count <= this.nights) {
+                this.nights -= night_count;
+                return true;
+            } else {
+                return false;
+            }
+
+
+        }
+
+        this.getContent = function(column, night_count) {
+            switch (column) {
+                case 0:
+                    return this.name;
+                    break;
+                case 1:
+                    return this.nights;
+                    break;
+                case 2:
+                    return this.bookNights(night_count).outerHTML;
+                    break;
+                default:
+                    return '';
+
+            }
+        }
+    }
+
+
+
+
+    var hotels = [];
+
+    hotels.push(new Hotel("Golden Nugget Hotel"));
+    hotels.push(new Hotel("Ancient Oyster Hotel"));
+    hotels.push(new Hotel("Autumn Spring Resort"));
+    hotels.push(new Hotel("Sunny Orb Hotel"));
+    hotels.push(new Hotel("Serene Gulf Hotel"));
+    hotels.push(new Hotel("Silver Willow Resort"));
+    hotels.push(new Hotel("Road Trip Hotel"));
+    hotels.push(new Hotel("Elysium Hotel"));
+    hotels.push(new Hotel("Oceanview Resort"));
+    hotels.push(new Hotel("Seacoast Resort"));
+
+    function listHotel(hotel_id, cell_id) {
+        return hotels[hotel_id].getContent(cell_id, night_count);
+    }
+
+    function doBooking(hotel, nights) {
+
+        console.log(hotel.name + " was booked for " + nights + ' nights.');
+    }
+    var search_days = document.getElementById("search--days");
+    var search_button = document.getElementById("search--button");
+
+
+    var table_container = document.getElementById("table--container");
+
+    search_button.addEventListener('click', function() {
+        var table_content = matrix(wrapTr, wrapTd, hotels.length, 3, function(row, column) {
+            return hotels[row].getContent(column, Number(search_days.value));
+        });
+        table_container.innerHTML = wrapTag("table", table_content);
+    })
+    </script>
+</body>
+
+</html>

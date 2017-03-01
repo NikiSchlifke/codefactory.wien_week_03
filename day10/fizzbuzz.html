@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>fizzbuzz</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+    for (var i = 1; i <= 100; i++) {
+        document.write('<p>' + fizzbuzzer(i) + '<\/p>');
+    }
+
+    function fizzbuzzer(number) {
+        if (number % 3 == 0 && number % 5 == 0) {
+            return 'fizzbuzz';
+        }
+        if (number % 3 == 0) {
+            return 'fizz';
+        }
+        if (number % 5 == 0) {
+            return 'buzz';
+        }
+        return number;
+    }
+    </script>
+</body>
+
+</html>

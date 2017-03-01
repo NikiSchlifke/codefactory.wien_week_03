@@ -19,7 +19,7 @@
 			var inputWord = inputArray[i];
 			var firstCharacter = inputWord.charAt(0);
 			var remainingCharacters = inputWord.slice(1);
-			var outputWord = firstCharacter + remainingCharacters;
+			var outputWord = firstCharacter.toUpperCase() + remainingCharacters;
 			// var outputWord = inputArray[i].charAt(0).toUpperCase() + inputArray[i].slice(1); 
 			outputArray.push(outputWord);
 		}

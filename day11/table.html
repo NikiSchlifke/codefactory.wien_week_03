@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>table creation</title>
+    <style type="text/css">
+    	table, td, tr {
+    		border-style: solid;
+    	}
+    </style>
+</head>
+
+<body>
+    <span>Rows: </span>
+    <input type="number" id="table--rows">
+    <span>Columns: </span>
+    <input type="number" id="table--columns">
+    <button id="table--create">Create the table</button>
+    <main id="table--container"></main>
+    <script type="text/javascript" src="tablecreator.js"></script>
+    <script type="text/javascript">
+
+
+
+
+    var table_rows = document.getElementById("table--rows");
+    var table_columns = document.getElementById("table--columns");
+    var table_create = document.getElementById("table--create");
+    var table_container = document.getElementById("table--container");
+
+    table_create.addEventListener("click", function() {
+    	var row_count = Number(table_rows.value);
+    	var column_count = Number(table_columns.value);
+    	var table_content = matrix(wrapTr, wrapTd, row_count, column_count, cellText);
+    	table_container.innerHTML = wrapTag("table", table_content);
+    })
+    </script>
+</body>
+
+</html>

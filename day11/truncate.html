@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Truncate a string</title>
+    <style type="text/css">
+    #truncate--text {
+        width: 40vw;
+    }
+    
+    #truncate--position {
+        width: 3vw;
+    }
+    </style>
+</head>
+
+<body>
+    <form action="#">
+        <!-- input a sentence, a number and press the button -->
+        <input type="text" id="truncate--text">
+        <input type="number" id="truncate--position">
+        <button id="truncate--button">Truncate</button>
+    </form>
+    <p id="truncate--output"></p>
+    <script type="text/javascript">
+    // store the input, number, button ouf of the dom into variables for easy access.
+    var button = document.getElementById("truncate--button");
+    var truncatePosition = document.getElementById("truncate--position");
+    var text = document.getElementById("truncate--text");
+    // store the output paragraph dom into a variable
+    var truncated = document.getElementById("truncate--output");
+    /**
+     * Truncate a string upto a given position.
+     * 
+     * @param  {string}
+     * @param  {number}
+     * @return {string}
+     */
+    function truncateString(input, position) {
+        var output = "";
+        for (i = 0; i < position; i++) {
+            output += input.charAt(i);
+        }
+        return output;
+
+    }
+
+    // Anonymous function to call the truncateString function with the argument from the dom.
+    button.addEventListener("click", function() {
+        truncated.innerHTML = truncateString(text.value, Number(truncatePosition.value));
+    });
+    </script>
+</body>
+
+</html>

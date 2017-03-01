@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>average grades</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+    /*
+    Create a JavaScript program that will calculate the average grade for the whole class. Here are the points for each student :
+
+    Martin = 76
+
+    Thomas = 85
+
+    Klaus = 65
+
+    Maria = 93
+
+    David = 81
+
+    Based on their points, output the average class points and the grade, according to the following table:
+
+    < 60 F
+
+    < 70 D
+
+    < 80 C
+
+    < 90 B
+
+    < 100 A
+    */
+
+    function gradeFromPoints(points) {
+        if (points < 60) {
+            return 'F';
+        } else if (points < 70) {
+            return 'D';
+        } else if (points < 80) {
+        	return 'C';
+        } else if (points < 90) {
+        	return 'B';
+        } else {
+        	return 'A';
+        }
+    }
+
+
+    function averagePoints(allPoints) {
+    	var sumPoints = 0;
+    	for (i=0; i<allPoints.length; i++) {
+    		sumPoints += allPoints[i];
+    	}
+    	return sumPoints / allPoints.length;
+    }
+
+
+    var inputGrades = [76, 85, 65, 93, 81];
+
+    var pointsOfClass = averagePoints(inputGrades);
+
+    output = gradeFromPoints(pointsOfClass);
+
+    document.write(output);
+
+    </script>
+
+
+</body>
+
+</html>
