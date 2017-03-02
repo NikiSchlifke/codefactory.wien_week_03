@@ -4,12 +4,116 @@
 		"selected_items":
 		[
 			[
-				"do",
-				"dom_element"
+				"fa",
+				"fade"
+			],
+			[
+				"animat",
+				"animate\t.animate()"
+			],
+			[
+				"B",
+				"background-color"
 			],
 			[
 				"nig",
+				"night_number"
+			],
+			[
+				"ni",
 				"nights"
+			],
+			[
+				"nigh",
+				"nights"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"ds",
+				"description"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"san",
+				"Geneva, Tahoma, Verdana, sans-serif"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"felx",
+				"flex-direction"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"pic",
+				"picture"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"a",
+				"appendChild"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"w",
+				"wrapper_column"
+			],
+			[
+				"wr",
+				"wrapper_row"
+			],
+			[
+				"ho",
+				"hotel_data"
+			],
+			[
+				"ex",
+				"exp\texpect"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"do",
+				"dom_element"
 			],
 			[
 				"bac",
@@ -28,28 +132,12 @@
 				"hotel_id"
 			],
 			[
-				"nigh",
-				"night_count"
-			],
-			[
-				"ni",
-				"night_count"
-			],
-			[
 				"book",
 				"bookNights"
 			],
 			[
 				"gen",
 				"generateNights"
-			],
-			[
-				"ho",
-				"hotels"
-			],
-			[
-				"st",
-				"style\tTag"
 			],
 			[
 				"tab",
@@ -66,10 +154,6 @@
 			[
 				"c",
 				"column_count"
-			],
-			[
-				"w",
-				"wrapTd"
 			],
 			[
 				"wra",
@@ -94,10 +178,6 @@
 			[
 				"ro",
 				"row_count"
-			],
-			[
-				"wr",
-				"wrapTag"
 			],
 			[
 				"i",
@@ -180,28 +260,12 @@
 				"Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman',  serif"
 			],
 			[
-				"fle",
-				"flex-grow"
-			],
-			[
-				"flex",
-				"flex-grow"
-			],
-			[
 				"spa",
-				"space-around"
-			],
-			[
-				"spac",
 				"space-around"
 			],
 			[
 				"al",
 				"align-items"
-			],
-			[
-				"im",
-				"import\t@import"
 			],
 			[
 				"inclu",
@@ -336,10 +400,6 @@
 				"name_data"
 			],
 			[
-				"a",
-				"accesskey\tAttr"
-			],
-			[
 				"eva",
 				"evade"
 			],
@@ -444,10 +504,6 @@
 				"printArea"
 			],
 			[
-				"de",
-				"degreesToRadians"
-			],
-			[
 				"fu",
 				"function"
 			],
@@ -458,112 +514,126 @@
 			[
 				"wit",
 				"write"
-			],
-			[
-				"fr",
-				"fruits"
-			],
-			[
-				"fur",
-				"fruit_string"
-			],
-			[
-				"frui",
-				"fruit_string"
-			],
-			[
-				"po",
-				"popped_value"
-			],
-			[
-				"fl",
-				"flex"
-			],
-			[
-				"broc",
-				"border-color"
-			],
-			[
-				"wi",
-				"width"
-			],
-			[
-				"n",
-				"nutrient--value\t factsheet.css"
-			],
-			[
-				"col",
-				"column"
-			],
-			[
-				"jus",
-				"justify-content"
-			],
-			[
-				"font",
-				"font-weight"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"just",
-				"text-justify"
-			],
-			[
-				"ba",
-				"background-color"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "day11/readingstatus.html",
+			"file": "day12/hotels/SpecRunner.html",
 			"settings":
 			{
-				"buffer_size": 1812,
+				"buffer_size": 717,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "day11/truncate.html",
+			"file": "day12/hotels/src/Hotels.js",
 			"settings":
 			{
-				"buffer_size": 1567,
+				"buffer_size": 5187,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "<!DOCTYPE html>\n<html>\n\n<head>\n    <title>table creation</title>\n    <style type=\"text/css\">\n    \ttable, td, tr {\n    \t\tborder-style: solid;\n    \t}\n    </style>\n</head>\n\n<body>\n    <span>Rows: </span>\n    <input type=\"number\" id=\"table--rows\">\n    <span>Columns: </span>\n    <input type=\"number\" id=\"table--columns\">\n    <button id=\"table--create\">Create the table</button>\n    <main id=\"table--container\"></main>\n    <script type=\"text/javascript\" src=\"tablecreator.js\"></script>\n    <script type=\"text/javascript\">\n\n\n\n\n    var table_rows = document.getElementById(\"table--rows\");\n    var table_columns = document.getElementById(\"table--columns\");\n    var table_create = document.getElementById(\"table--create\");\n    var table_container = document.getElementById(\"table--container\");\n    \n\n    table_create.addEventListener(\"click\", function() {\n    \tvar row_count = Number(table_rows.value);\n    \tvar column_count = Number(table_columns.value);\n    \tvar table_content = matrix(wrapTr, wrapTd, row_count, column_count, cellText);\n    \ttable_container.innerHTML = wrapTag(\"table\", table_content);\n    })\n    </script>\n</body>\n\n</html>\n",
-			"file": "day11/table.html",
-			"file_size": 1130,
-			"file_write_time": 131327618450490528,
+			"file": "day13/example.html",
 			"settings":
 			{
-				"buffer_size": 1135,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"buffer_size": 1858,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "day11/tablecreator.js",
+			"file": "day13/myscript.js",
 			"settings":
 			{
-				"buffer_size": 800,
+				"buffer_size": 1353,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "day13/animation_exercise.html",
+			"settings":
+			{
+				"buffer_size": 721,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "day13/animate.js",
+			"settings":
+			{
+				"buffer_size": 306,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "tablecreator.js"
+				"name": "animate.js"
 			}
 		},
 		{
-			"file": "day11/hotels.html",
+			"contents": "<!-- index.html -->\n\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"utf-8\">\n\t<title>calculator</title>\n</head>\n<body>\n\n\n\n</body>\n</html>",
+			"file": "day12/calculator/index.html",
+			"file_size": 19,
+			"file_write_time": 131328547511240877,
 			"settings":
 			{
-				"buffer_size": 4260,
+				"buffer_size": 145,
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day12/hotels/spec/SpecTableCreator.js",
+			"settings":
+			{
+				"buffer_size": 23,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day12/hotels/index.html",
+			"settings":
+			{
+				"buffer_size": 638,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day12/hotels/src/TableCreator.js",
+			"settings":
+			{
+				"buffer_size": 1441,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day12/hotels/css/main.css",
+			"settings":
+			{
+				"buffer_size": 861,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day12/jasmine_cheatsheet.js",
+			"settings":
+			{
+				"buffer_size": 3647,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -576,20 +646,24 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 636.0,
-		"last_filter": "ins",
+		"height": 372.0,
+		"last_filter": "instal",
 		"selected_items":
 		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
 			[
 				"ins",
 				"Package Control: Install Package"
 			],
 			[
 				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"insta",
 				"Package Control: Install Package"
 			],
 			[
@@ -736,11 +810,29 @@
 	"expanded_folders":
 	[
 		"/home/niki/codefactory/codefactory.wien_week_03",
-		"/home/niki/codefactory/codefactory.wien_week_03/day11"
+		"/home/niki/codefactory/codefactory.wien_week_03/day11",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/calculator",
+		"/home/niki/codefactory/codefactory.wien_week_03/day13"
 	],
 	"file_history":
 	[
+		"/home/niki/codefactory/codefactory.wien_week_03/day13/selectors.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day13",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/hotels/spec/SpecHotels.js",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/unit_tests/jasmine-standalone-2.5.2/spec/HelloWorldsSpec.js",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/unit_tests/jasmine-standalone-2.5.2/spec/SumSpec.js",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/unit_tests/jasmine-standalone-2.5.2/src/sum.js",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/unit_tests/jasmine-standalone-2.5.2/src/helloworld.js",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/unit_tests/jasmine-standalone-2.5.2/SpecRunner.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day11/hotels.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day11/tablecreator.js",
+		"/home/niki/codefactory/codefactory.wien_week_03/day11/table.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/hotels/src/hotels.js",
+		"/home/niki/codefactory/codefactory.wien_week_03/day11/readingstatus.html",
 		"/home/niki/codefactory/codefactory.wien_week_03/day11/truncate.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/hotels/index.html",
+		"/home/niki/codefactory/codefactory.wien_week_03/day12/hotels/tests/SpecRunner.html",
 		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/scss/desktop.scss",
 		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/scss/layout.scss",
 		"/home/niki/codefactory/javascript_niki_schlifke-codereview_week02_redo/scss/landscape.scss",
@@ -852,26 +944,11 @@
 		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/hide_and_seek.html",
 		"/home/niki/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/home/niki/codefactory/codefactory.wien_week_01/day04/exercises/hide_and_seek2.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day04/cascading_inheritance_specify.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day04/cascading_inheritance_specify.css",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/gamechallange02/intro.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/images.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/lists.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/tables.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/learn.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/exercises/imageseries.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/exercises/table_of_images.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/forms.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/iframe_media_comments.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/htmllearn/contactform.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/exercises/audio_video_table.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/exercises/activities.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/gamechallange02/game.html",
-		"/home/niki/codefactory/codefactory.wien_week_01/day03/gamechallange02/player.html"
+		"/home/niki/codefactory/codefactory.wien_week_01/day04/cascading_inheritance_specify.html"
 	],
 	"find":
 	{
-		"height": 54.0
+		"height": 45.0
 	},
 	"find_in_files":
 	{
@@ -885,6 +962,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"myNode",
+			"'",
+			"css_class",
+			"]",
+			",]",
+			"_",
+			"jpg",
+			"c/",
+			"/",
 			"run",
 			"><",
 			"table",
@@ -1003,16 +1089,7 @@
 			"ml\">",
 			"index.html",
 			"<section>",
-			"section",
-			"participat",
-			"ves",
-			"strong",
-			"years",
-			"h3",
-			"f4f4f4",
-			"ul",
-			"\"",
-			"8&amp;"
+			"section"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1030,24 +1107,24 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "day11/readingstatus.html",
+					"file": "day12/hotels/SpecRunner.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1812,
+						"buffer_size": 717,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1780,
-								1780
+								692,
+								692
 							]
 						],
 						"settings":
@@ -1064,127 +1141,166 @@
 								}
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 157.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "day11/truncate.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1567,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								658,
-								658
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 384.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "day11/table.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1135,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								884,
-								884
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "day11/tablecreator.js",
+					"buffer": 1,
+					"file": "day12/hotels/src/Hotels.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 800,
+						"buffer_size": 5187,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								342,
-								342
-							],
-							[
-								736,
-								736
+								4387,
+								4387
 							]
 						],
 						"settings":
 						{
-							"auto_name": "tablecreator.js",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "day13/example.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 222.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "day13/myscript.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1316,
+								1316
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 444.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "day13/animation_exercise.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								627,
+								627
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1194,31 +1310,260 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "day11/hotels.html",
+					"buffer": 5,
+					"file": "day13/animate.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4260,
+						"buffer_size": 306,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								693,
-								693
+								304,
+								304
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"auto_name": "animate.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 928.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "day12/calculator/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "/home/niki/codefactory/codefactory.wien_week_03/day12/calculator/src",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "day12/hotels/spec/SpecTableCreator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "day12/hotels/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "day12/hotels/src/TableCreator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1406,
+								1406
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 444.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "day12/hotels/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 999.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "day12/jasmine_cheatsheet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1332.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
 					"type": "text"
 				}
 			]
@@ -1226,7 +1571,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 43.0
+		"height": 45.0
 	},
 	"input":
 	{
@@ -1275,7 +1620,7 @@
 	"project": "codefactory.wien_week_03.sublime-project",
 	"replace":
 	{
-		"height": 82.0
+		"height": 86.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1284,6 +1629,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"spet",
+				"day12/hotels/spec/SpecTableCreator.js"
+			]
 		],
 		"width": 0.0
 	},

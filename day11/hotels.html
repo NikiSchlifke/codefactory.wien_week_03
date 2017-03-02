@@ -21,6 +21,9 @@
         color: #003580;
     }
     </style>
+    <script src="lib/jasmine-2.5.2/jasmine.js"></script>
+    <script src="lib/jasmine-2.5.2/jasmine-html.js"></script>
+    <script src="lib/jasmine-2.5.2/boot.js"></script>
 </head>
 
 <body>
@@ -34,13 +37,13 @@
         <div id="table--container"></div>
         <div class="decoration"></div>
     </main>
-    <script type="text/javascript" src="tablecreator.js"></script>
+    <script type="text/javas     cript" src="tablecreator.js"></script>
     <script type="text/javascript">
     /*
-                    Create three objects of type Hotel. Each of them share some properties and methods. The user should be able to insert number of nights for each hotel and get back results, whether the hotel is available or not (for some number of nights). For each hotel generate random integers from 1-10 that stores available nights. If the the Hotel is available, provide a button labeled "I'll reserve" otherwise provide a message with text "Sorry, no free room for <number_of_nights> nights".
+                        Create three objects of type Hotel. Each of them share some properties and methods. The user should be able to insert number of nights for each hotel and get back results, whether the hotel is available or not (for some number of nights). For each hotel generate random integers from 1-10 that stores available nights. If the the Hotel is available, provide a button labeled "I'll reserve" otherwise provide a message with text "Sorry, no free room for <number_of_nights> nights".
 
-                    Try to style the Program with the colors #003580, #FFFFFF and #E9F0FA so it can be embedded within real production website.
-                    */
+                        Try to style the Program with the colors #003580, #FFFFFF and #E9F0FA so it can be embedded within real production website.
+                        */
 
 
 
@@ -52,7 +55,9 @@
             if (night_count > 0 && night_count <= this.nights) {
                 var button = document.createElement("BUTTON");
                 button.innerHTML = "I'll resevere";
-                button.addEventListener('click', function() { doBooking(this, night_count); });
+                button.addEventListener('click', function() {
+                    doBooking(this, night_count);
+                });
                 // button.onclick = function() { doBooking(this, night_count);};
                 return button;
             } else {

@@ -1,0 +1,47 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	cursor: default;
+}
+
+body 
+{
+	font: normal 100%/1.3em sans-serif; 
+	margin: 10px; 
+	color: #333; 
+	background-color: #fff;
+}
+
+header, article, footer
+{
+	margin: 1em;
+}
+
+header *, article *, footer *
+{
+	margin: 0.2em 40px;
+}
+
+h1
+{
+	font-size: 1.5em;
+	font-weight: normal;
+}
+
+ul
+{
+	list-style-type: disc;
+}
+
+a
+{
+	text-decoration: none;
+	color: #00c;
+	margin: 0;
+}
+
+strong
+{
+	margin: 0;
+}
